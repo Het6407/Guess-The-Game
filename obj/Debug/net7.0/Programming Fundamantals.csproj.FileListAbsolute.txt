@@ -1,0 +1,30 @@
+C:\Georgian College\Programming Fundamantals\bin\Debug\net7.0\Programming Fundamantals.exe
+C:\Georgian College\Programming Fundamantals\bin\Debug\net7.0\Programming Fundamantals.deps.json
+C:\Georgian College\Programming Fundamantals\bin\Debug\net7.0\Programming Fundamantals.runtimeconfig.json
+C:\Georgian College\Programming Fundamantals\bin\Debug\net7.0\Programming Fundamantals.dll
+C:\Georgian College\Programming Fundamantals\bin\Debug\net7.0\Programming Fundamantals.pdb
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\Programming Fundamantals.csproj.AssemblyReference.cache
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\Programming Fundamantals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\Programming Fundamantals.AssemblyInfoInputs.cache
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\Programming Fundamantals.AssemblyInfo.cs
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\Programming Fundamantals.csproj.CoreCompileInputs.cache
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\Programming Fundamantals.dll
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\refint\Programming Fundamantals.dll
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\Programming Fundamantals.pdb
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\Programming Fundamantals.genruntimeconfig.cache
+C:\Georgian College\Programming Fundamantals\obj\Debug\net7.0\ref\Programming Fundamantals.dll
+C:\Georgian College\Programming Fundamantals\Final Project\bin\Debug\net7.0\Programming Fundamantals.exe
+C:\Georgian College\Programming Fundamantals\Final Project\bin\Debug\net7.0\Programming Fundamantals.deps.json
+C:\Georgian College\Programming Fundamantals\Final Project\bin\Debug\net7.0\Programming Fundamantals.runtimeconfig.json
+C:\Georgian College\Programming Fundamantals\Final Project\bin\Debug\net7.0\Programming Fundamantals.dll
+C:\Georgian College\Programming Fundamantals\Final Project\bin\Debug\net7.0\Programming Fundamantals.pdb
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\Programming Fundamantals.csproj.AssemblyReference.cache
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\Programming Fundamantals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\Programming Fundamantals.AssemblyInfoInputs.cache
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\Programming Fundamantals.AssemblyInfo.cs
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\Programming Fundamantals.csproj.CoreCompileInputs.cache
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\Programming Fundamantals.dll
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\refint\Programming Fundamantals.dll
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\Programming Fundamantals.pdb
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\Programming Fundamantals.genruntimeconfig.cache
+C:\Georgian College\Programming Fundamantals\Final Project\obj\Debug\net7.0\ref\Programming Fundamantals.dll
